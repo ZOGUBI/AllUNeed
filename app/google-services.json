@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90905263220",
+    "firebase_url": "https://alluneed-184b4.firebaseio.com",
+    "project_id": "alluneed-184b4",
+    "storage_bucket": "alluneed-184b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90905263220:android:710b741006ee78e8",
+        "android_client_info": {
+          "package_name": "com.example.zogubi.alluneed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90905263220-rcci2mphqnf6gsolkc52snc8d3knrcb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zogubi.alluneed",
+            "certificate_hash": "a2fff36c1ef22fc0ccd7ce7ec3e004865dd2b605"
+          }
+        },
+        {
+          "client_id": "90905263220-5ui4i7svca8gethq55gapmh646dffiia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEz0lfWrZXyoqDpFWzPfRMIOvCPqlfBwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90905263220-5ui4i7svca8gethq55gapmh646dffiia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
